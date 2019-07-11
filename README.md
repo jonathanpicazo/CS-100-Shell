@@ -1,4 +1,4 @@
-# CS 100 Programming Project Two
+# CS 100 Programming Project
 
 # Project Information
 ###### Jonathan Picazo : 862024831
