@@ -1,10 +1,5 @@
 # CS 100 Programming Project
 
-# Project Information
-###### Jonathan Picazo : 862024831
-###### Rhea Prashanth : 861260970
-###### Winter 2019
-
 # Introduction
 ##### Essentially we have been creating a shell which we will/have been making improvements through over the course of the quarter. In order to do this, we will need classes via use of composite patterns and polymorphism. As we have done in this assignment, we should have numerous classes that encompass a shell’s ability to run individual commands such as ls, rm, or multiple commands on one line such as ls -a; git branch, ls -a && git branch, etc. We have been able to differentiate between these commands, run multiple commands at once, and more and actually execute them and create functionality. We have used abstractions to limit the client to use limited commands to prevent them from infiltrating the shell. Each class has function names that mirror that of other classes(such as our parse function),  as well as their own unique functions. In testing our classes, we have made sure that they accept a wide range of commands not only for the client to use to organize whatever it is that they are working on, but to allow the creation of and removal of files, and more.
 
